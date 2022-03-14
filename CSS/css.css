@@ -1,0 +1,44 @@
+h1{
+    color: black;
+    font-size: 200%;
+    nav-left: current;
+    text-align: center;
+}
+
+/* cambiar el color de fondo a la barra */
+
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: red;
+    color: white;
+    text-align: center;
+    border-style:groove;
+    
+  }
+
+  .menu{
+      border-style: groove;
+      background-color: red;
+  }
+
+  img{
+    max-width: 120%;
+  }
+  .img1{
+    max-width: 80%;
+  }
+  
+  td {
+    font-size: 15px;
+    line-break: auto;
+    padding: 2%;
+    text-align: justify;
+    vertical-align: top; 
+    width: 50%;
+    text-decoration: solid;
+    font-size: large;
+    font-style: normal;
+    }
